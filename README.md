@@ -3957,7 +3957,8 @@ a:focus {
                     <div class="col-lg-4 col-md-12">
                         <div class="logo">
                             <a href="index.html">
-                                 <img src="logo.jpg" alt="Logo"> 
+			     <h1>Auto<span>Wash</span></h1>
+                                 <img src="./logo.jpg" alt="Logo"> 
                             </a>
                         </div>
                     </div>
