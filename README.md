@@ -4045,7 +4045,7 @@ a:focus {
                 <div class="owl-carousel">
                     <div class="carousel-item">
                         <div class="carousel-img">
-                            <img src="carousel-1.jpg" alt="Image">
+                            <img src="https://images.app.goo.gl/BcAWDkaKczbEigTb7" alt="Image">
                         </div>
                         <div class="carousel-text">
                             <h3>Water Tanking Cleaning Service</h3>
